@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/qareact/static/css/main.90ef1043.chunk.css",
+    "main.js": "/qareact/static/js/main.68697be2.chunk.js",
+    "main.js.map": "/qareact/static/js/main.68697be2.chunk.js.map",
+    "runtime-main.js": "/qareact/static/js/runtime-main.296d6fec.js",
+    "runtime-main.js.map": "/qareact/static/js/runtime-main.296d6fec.js.map",
+    "static/js/2.d860ff5b.chunk.js": "/qareact/static/js/2.d860ff5b.chunk.js",
+    "static/js/2.d860ff5b.chunk.js.map": "/qareact/static/js/2.d860ff5b.chunk.js.map",
+    "static/js/3.1b136dda.chunk.js": "/qareact/static/js/3.1b136dda.chunk.js",
+    "static/js/3.1b136dda.chunk.js.map": "/qareact/static/js/3.1b136dda.chunk.js.map",
+    "index.html": "/qareact/index.html",
+    "static/css/main.90ef1043.chunk.css.map": "/qareact/static/css/main.90ef1043.chunk.css.map",
+    "static/js/2.d860ff5b.chunk.js.LICENSE.txt": "/qareact/static/js/2.d860ff5b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.296d6fec.js",
+    "static/js/2.d860ff5b.chunk.js",
+    "static/css/main.90ef1043.chunk.css",
+    "static/js/main.68697be2.chunk.js"
+  ]
+}

@@ -1,0 +1,58 @@
+.header{
+    text-align: center;
+    padding-top: 32px;
+    font-size: 2rem;
+    font-weight: bold;
+    color:#e84545;
+}
+.container{
+    padding-bottom: 24px;
+    
+}
+
+.login{
+    border: 1px solid ;
+    padding-left: 30px;
+    padding-right: 50px;
+}
+.label{
+ padding-left: 38px;
+ 
+}
+.textbox{
+    border: 1px solid;
+    
+}
+.button{
+    
+    width: 60%;
+    background-color: #e84545;
+    text-align: center;
+    color: #fff;
+    font-size: 16px;
+    border-radius: 3px;
+    padding: 6px 5px !important;
+    
+}
+.remember{
+    padding-left: 25px;
+}
+.formheader{
+    text-align: center;
+    width: 100%;
+    padding: 2%;
+    border: 1px solid;
+    font-weight: bold;
+    color: #fff;
+    background-color:#438eb9;
+}
+
+.register{
+    border: 1px solid ;
+    padding-left: 30px;
+    padding-right: 50px;
+}
+
+.error{
+    color: red;
+}

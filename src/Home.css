@@ -1,0 +1,14 @@
+
+.card {
+    margin: 2rem;
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: 1fr;
+    justify-content: center;
+     }
+.qbutton{
+    text-align: center;
+    
+}
+
+

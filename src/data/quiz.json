@@ -1,0 +1,20 @@
+{
+    "data":[
+        {
+        "question" : "what is the capatial of india ?",
+        "choices":["mumbai","delhi","pune","nashik"],
+        "answer":"delhi"
+        },
+        {
+            "question" : "what is ?",
+            "choices":["pune","delhi","pune","nashik"],
+            "answer":"delhi"
+            },
+            {
+                "question" : "what is  of india ?",
+                "choices":["nashik","denashiklhi","pune","delhi"],
+                "answer":"delhi"
+                }
+
+    ]
+}
